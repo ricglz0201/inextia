@@ -1,0 +1,20 @@
+div.carousel {
+	margin-bottom: 4rem;
+}
+
+div.carousel-item {
+	height: 32rem;
+	background-color: #777;
+}
+
+@media screen(min-width: 62em) {
+	h2.featurette-heading {
+		margin-top: 7rem;
+	}
+}
+
+@media screen(min-width: 40em) {
+	h2.featurette-heading {
+		margin-top: 50px;
+	}
+}
